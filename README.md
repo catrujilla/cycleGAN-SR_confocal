@@ -1,7 +1,7 @@
 ## CycleGAN for Confocal Microscopy Image Translation
 
 # Overview:
-This repository hosts Python scripts implementing a CycleGAN (Cycle-Consistent Generative Adversarial Network) for translating images within Ana Doblas' experimental confocal microscopy dataset. The CycleGAN architecture consists of two generators and two discriminators trained to transform images between different domains of confocal microscopy data. The goal is to enhance image quality and extract meaningful features for analysis.
+This repository hosts Python scripts implementing a CycleGAN (Cycle-Consistent Generative Adversarial Network) for translating images within experimental confocal microscopy dataset. The CycleGAN architecture consists of two generators and two discriminators trained to transform images between different domains of confocal microscopy data. The goal is to enhance image quality and extract meaningful features for analysis.
 
 # Key Features:
 Model Architecture: Utilizes TensorFlow and Keras to define CNN-based generators and discriminators. Includes instance normalization, residual blocks (resnet blocks), and custom loss functions (adversarial and perceptual losses) to optimize image translation performance.
