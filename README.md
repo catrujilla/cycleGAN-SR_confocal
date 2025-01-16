@@ -32,7 +32,8 @@ Contributions, issues, and feature requests are welcome. Please follow the repos
 For major changes or enhancements, kindly open an issue first to discuss the proposed modifications.
 
 # Authors:
-Dr. Ana Doblas (Dr. Carlos Trujillo (Universidad EAFIT): Developers
+Dr. Ana Doblas and Dr. Carlos Trujillo (Universidad EAFIT): Developers
+
 Dr. Thompson and Dr. Skalli: Biological Experts
 
 C. Trujillo,1 L. Thompson,2 O. Skalli,2 and A. Doblas3,*
@@ -41,6 +42,12 @@ C. Trujillo,1 L. Thompson,2 O. Skalli,2 and A. Doblas3,*
 1Department of Biological Sciences, University of Memphis, Memphis, TN 38152, USA
 3Department of Electrical and Computer Engineering, University of Massachusetts Dartmouth, MA 02747, USA
 *Corresponding authors: catrujilla@eafit.edu.co, adoblas@umassd.edu
+
+# How to Cite
+
+If you use this code or find our work helpful in your research, please cite our publication:
+
+Carlos Trujillo, Lauren Thompson, Omar Skalli, and Ana Doblas, "Unpaired data training enables super-resolution confocal microscopy from low-resolution acquisitions," Opt. Lett. 49, 5775-5778 (2024). [https://doi.org/10.1364/OL.499.05775](https://doi.org/10.1364/OL.499.05775)
 
 # License:
 This project is licensed under the MIT License, ensuring openness and accessibility for academic and research purposes.
