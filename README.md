@@ -47,7 +47,8 @@ C. Trujillo,1 L. Thompson,2 O. Skalli,2 and A. Doblas3,*
 
 If you use this code or find our work helpful in your research, please cite our publication:
 
-Carlos Trujillo, Lauren Thompson, Omar Skalli, and Ana Doblas, "Unpaired data training enables super-resolution confocal microscopy from low-resolution acquisitions," Opt. Lett. 49, 5775-5778 (2024). [https://doi.org/10.1364/OL.499.05775](https://doi.org/10.1364/OL.499.05775)
+Carlos Trujillo, Lauren Thompson, Omar Skalli, and Ana Doblas, "Unpaired data training enables super-resolution confocal microscopy from low-resolution acquisitions," Opt. Lett. 49, 5775-5778 (2024).
+https://doi.org/10.1364/OL.537713
 
 # License:
 This project is licensed under the MIT License, ensuring openness and accessibility for academic and research purposes.
